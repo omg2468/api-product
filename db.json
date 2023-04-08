@@ -8,7 +8,8 @@
       "sort": "cake3",
       "star": 5,
       "discount": 0,
-      "display": true
+      "display": true,
+      "id": 0
     },
     {
       "name": "Bánh Mì Chả Thịt",
